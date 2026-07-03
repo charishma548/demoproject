@@ -1,2 +1,2 @@
 # demoproject
-training purpus
+training period
