@@ -1,2 +1,2 @@
 # demoproject
-my info
+training purpus
